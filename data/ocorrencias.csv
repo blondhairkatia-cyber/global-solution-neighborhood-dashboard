@@ -1,0 +1,15 @@
+id;bairro;categoria;descricao;local;dia_abertura;situacao
+OC001;Vila Aurora;iluminacao;Poste apagado há várias noites;Praça Central;1;concluida
+OC002;Vila Aurora;limpeza;Entulho acumulado na calçada;Rua das Flores;2;concluida
+OC003;Jardim Horizonte;acessibilidade;Calçada sem rampa na esquina;Avenida Principal;3;em_analise
+OC004;Parque das Águas;conservacao;Banco quebrado no parquinho;Parque Linear;4;concluida
+OC005;Jardim Horizonte;iluminacao;Lâmpada piscando na travessa;Travessa do Sol;6;em_analise
+OC006;Vila Aurora;acessibilidade;Piso tátil danificado;Ponto de ônibus da praça;8;aberta
+OC007;Parque das Águas;limpeza;Lixeira transbordando;Quadra esportiva;10;em_analise
+OC008;Jardim Horizonte;conservacao;Brinquedo enferrujado;Pracinha do Horizonte;12;aberta
+OC009;Vila Aurora;iluminacao;Trecho escuro perto da escola;Rua da Escola;15;aberta
+OC010;Parque das Águas;acessibilidade;Rampa muito inclinada;Centro comunitário;18;em_analise
+OC011;Jardim Horizonte;limpeza;Mato alto em terreno público;Rua do Campo;21;aberta
+OC012;Parque das Águas;iluminacao;Poste com fiação exposta;Rua das Palmeiras;24;aberta
+OC013;Vila Aurora;;Buraco na pista de caminhada;Parque Linear;25;aberta
+OC014;Jardim Horizonte;limpeza;Folhas entupindo o bueiro;Rua do Campo;26;resolvido
